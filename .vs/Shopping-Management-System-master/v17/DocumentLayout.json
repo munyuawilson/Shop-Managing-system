@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Downloads\\Shopping-Management-System-master\\Shopping-Management-System-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Downloads\\Shopping-Management-System-master\\Shopping-Management-System-master\\Shopping Management System\\Shopping Management System\\Profile_Admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopping Management System\\Shopping Management System\\Profile_Admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Downloads\\Shopping-Management-System-master\\Shopping-Management-System-master\\Shopping Management System\\Shopping Management System\\Profile_User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopping Management System\\Shopping Management System\\Profile_User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Downloads\\Shopping-Management-System-master\\Shopping-Management-System-master\\Shopping Management System\\Shopping Management System\\Profile_Admin.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopping Management System\\Shopping Management System\\Profile_Admin.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Downloads\\Shopping-Management-System-master\\Shopping-Management-System-master\\Shopping Management System\\Shopping Management System\\hello_window.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopping Management System\\Shopping Management System\\hello_window.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Downloads\\Shopping-Management-System-master\\Shopping-Management-System-master\\Shopping Management System\\Shopping Management System\\hello_window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopping Management System\\Shopping Management System\\hello_window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Downloads\\Shopping-Management-System-master\\Shopping-Management-System-master\\Shopping Management System\\Shopping Management System\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopping Management System\\Shopping Management System\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Profile_Admin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Shopping-Management-System-master\\Shopping-Management-System-master\\Shopping Management System\\Shopping Management System\\Profile_Admin.Designer.cs",
+              "RelativeDocumentMoniker": "Shopping Management System\\Shopping Management System\\Profile_Admin.Designer.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Shopping-Management-System-master\\Shopping-Management-System-master\\Shopping Management System\\Shopping Management System\\Profile_Admin.Designer.cs",
+              "RelativeToolTip": "Shopping Management System\\Shopping Management System\\Profile_Admin.Designer.cs",
+              "ViewState": "AQIAACMEAAAAAAAAAAAYwCwEAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:48:26.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Profile_User.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Shopping-Management-System-master\\Shopping-Management-System-master\\Shopping Management System\\Shopping Management System\\Profile_User.cs",
+              "RelativeDocumentMoniker": "Shopping Management System\\Shopping Management System\\Profile_User.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Shopping-Management-System-master\\Shopping-Management-System-master\\Shopping Management System\\Shopping Management System\\Profile_User.cs",
+              "RelativeToolTip": "Shopping Management System\\Shopping Management System\\Profile_User.cs",
+              "ViewState": "AQIAAAMBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:03:06.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Profile_Admin.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Shopping-Management-System-master\\Shopping-Management-System-master\\Shopping Management System\\Shopping Management System\\Profile_Admin.cs",
+              "RelativeDocumentMoniker": "Shopping Management System\\Shopping Management System\\Profile_Admin.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Shopping-Management-System-master\\Shopping-Management-System-master\\Shopping Management System\\Shopping Management System\\Profile_Admin.cs",
+              "RelativeToolTip": "Shopping Management System\\Shopping Management System\\Profile_Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T16:34:01.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "hello_window.resx",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Shopping-Management-System-master\\Shopping-Management-System-master\\Shopping Management System\\Shopping Management System\\hello_window.resx",
+              "RelativeDocumentMoniker": "Shopping Management System\\Shopping Management System\\hello_window.resx",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Shopping-Management-System-master\\Shopping-Management-System-master\\Shopping Management System\\Shopping Management System\\hello_window.resx",
+              "RelativeToolTip": "Shopping Management System\\Shopping Management System\\hello_window.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-03T17:13:51.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "hello_window.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Shopping-Management-System-master\\Shopping-Management-System-master\\Shopping Management System\\Shopping Management System\\hello_window.cs",
+              "RelativeDocumentMoniker": "Shopping Management System\\Shopping Management System\\hello_window.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Shopping-Management-System-master\\Shopping-Management-System-master\\Shopping Management System\\Shopping Management System\\hello_window.cs",
+              "RelativeToolTip": "Shopping Management System\\Shopping Management System\\hello_window.cs",
+              "ViewState": "AQIAADUAAACA8fDVqsQlwFUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:02:52.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Shopping-Management-System-master\\Shopping-Management-System-master\\Shopping Management System\\Shopping Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Shopping Management System\\Shopping Management System\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Shopping-Management-System-master\\Shopping-Management-System-master\\Shopping Management System\\Shopping Management System\\Program.cs",
+              "RelativeToolTip": "Shopping Management System\\Shopping Management System\\Program.cs",
+              "ViewState": "AQIAAAAAAAAADw/u7k78vwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T16:33:30.609Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

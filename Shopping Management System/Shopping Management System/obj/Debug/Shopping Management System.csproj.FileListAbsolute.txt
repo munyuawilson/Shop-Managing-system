@@ -1,0 +1,27 @@
+C:\Users\Manar\source\repos\Shopping Management System\Shopping Management System\bin\Debug\Shopping Management System.exe.config
+C:\Users\Manar\source\repos\Shopping Management System\Shopping Management System\bin\Debug\Shopping Management System.exe
+C:\Users\Manar\source\repos\Shopping Management System\Shopping Management System\bin\Debug\Shopping Management System.pdb
+C:\Users\Manar\source\repos\Shopping Management System\Shopping Management System\obj\Debug\Shopping_Management_System.Cart.resources
+C:\Users\Manar\source\repos\Shopping Management System\Shopping Management System\obj\Debug\Shopping_Management_System.Profile_Admin.resources
+C:\Users\Manar\source\repos\Shopping Management System\Shopping Management System\obj\Debug\Shopping_Management_System.Profile_User.resources
+C:\Users\Manar\source\repos\Shopping Management System\Shopping Management System\obj\Debug\Shopping_Management_System.Register.resources
+C:\Users\Manar\source\repos\Shopping Management System\Shopping Management System\obj\Debug\Shopping_Management_System.hello_window.resources
+C:\Users\Manar\source\repos\Shopping Management System\Shopping Management System\obj\Debug\Shopping_Management_System.Properties.Resources.resources
+C:\Users\Manar\source\repos\Shopping Management System\Shopping Management System\obj\Debug\Shopping Management System.csproj.GenerateResource.cache
+C:\Users\Manar\source\repos\Shopping Management System\Shopping Management System\obj\Debug\Shopping Management System.exe
+C:\Users\Manar\source\repos\Shopping Management System\Shopping Management System\obj\Debug\Shopping Management System.pdb
+C:\Users\Manar\source\repos\Shopping Management System\Shopping Management System\obj\Debug\Shopping Management System.csprojAssemblyReference.cache
+C:\Users\pc\Downloads\Shopping-Management-System-master\Shopping-Management-System-master\Shopping Management System\Shopping Management System\obj\Debug\Shopping Management System.csproj.AssemblyReference.cache
+C:\Users\pc\Downloads\Shopping-Management-System-master\Shopping-Management-System-master\Shopping Management System\Shopping Management System\obj\Debug\Shopping_Management_System.Cart.resources
+C:\Users\pc\Downloads\Shopping-Management-System-master\Shopping-Management-System-master\Shopping Management System\Shopping Management System\obj\Debug\Shopping_Management_System.Profile_Admin.resources
+C:\Users\pc\Downloads\Shopping-Management-System-master\Shopping-Management-System-master\Shopping Management System\Shopping Management System\obj\Debug\Shopping_Management_System.Profile_User.resources
+C:\Users\pc\Downloads\Shopping-Management-System-master\Shopping-Management-System-master\Shopping Management System\Shopping Management System\obj\Debug\Shopping_Management_System.Register.resources
+C:\Users\pc\Downloads\Shopping-Management-System-master\Shopping-Management-System-master\Shopping Management System\Shopping Management System\obj\Debug\Shopping_Management_System.hello_window.resources
+C:\Users\pc\Downloads\Shopping-Management-System-master\Shopping-Management-System-master\Shopping Management System\Shopping Management System\obj\Debug\Shopping_Management_System.Properties.Resources.resources
+C:\Users\pc\Downloads\Shopping-Management-System-master\Shopping-Management-System-master\Shopping Management System\Shopping Management System\obj\Debug\Shopping Management System.csproj.GenerateResource.cache
+C:\Users\pc\Downloads\Shopping-Management-System-master\Shopping-Management-System-master\Shopping Management System\Shopping Management System\obj\Debug\Shopping Management System.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\Shopping-Management-System-master\Shopping-Management-System-master\Shopping Management System\Shopping Management System\bin\Debug\Shopping Management System.exe.config
+C:\Users\pc\Downloads\Shopping-Management-System-master\Shopping-Management-System-master\Shopping Management System\Shopping Management System\bin\Debug\Shopping Management System.exe
+C:\Users\pc\Downloads\Shopping-Management-System-master\Shopping-Management-System-master\Shopping Management System\Shopping Management System\bin\Debug\Shopping Management System.pdb
+C:\Users\pc\Downloads\Shopping-Management-System-master\Shopping-Management-System-master\Shopping Management System\Shopping Management System\obj\Debug\Shopping Management System.exe
+C:\Users\pc\Downloads\Shopping-Management-System-master\Shopping-Management-System-master\Shopping Management System\Shopping Management System\obj\Debug\Shopping Management System.pdb
