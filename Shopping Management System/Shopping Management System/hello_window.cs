@@ -137,5 +137,10 @@ namespace Shopping_Management_System
             panel1.BackColor = Color.FromArgb(245, 173, 91);
             textBox_username.ForeColor = Color.FromArgb(245, 173, 91);
         }
+
+        private void hello_window_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

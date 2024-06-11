@@ -236,7 +236,7 @@ namespace Shopping_Management_System
             }
             else if (checkBox_alpha.Checked)
             {
-                cmd = new SqlCommand("select Name From Product where Category_ID='" + ID + "'and Status='1' order by Name", con);
+                cmd = new SqlCommand("select Name From Product where Category_ID='" + ID + "'and  order by Name", con);
                 SqlDataReader reader = cmd.ExecuteReader();
                 DataTable dt = new DataTable();
                 dt.Columns.Add("Name");
